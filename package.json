@@ -1,0 +1,24 @@
+{
+  "name": "plugin-core",
+  "version": "1.0.0",
+  "description": "Ado Plugin core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/adopisowifi/plugin-core.git"
+  },
+  "keywords": [
+    "ado",
+    "plugin",
+    "core"
+  ],
+  "author": "arnel.lenteria@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/adopisowifi/plugin-core/issues"
+  },
+  "homepage": "https://bitbucket.org/adopisowifi/plugin-core#readme"
+}
